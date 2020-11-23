@@ -1,3 +1,23 @@
+## [0.0.2-nullsafety.1] - 23-11-2020.
+
+* Added full support for the following countries:
+  * Poland 🇵🇱
+  * China 🇨🇳
+  * Russia 🇷🇺
+  * United Arab Emirates 🇦🇪
+  * Armenia 🇦🇲
+  * Curaçao 🇨🇼
+  * Sint Maarten 🇸🇽
+  * Barbados 🇧🇧
+  * Bangladesh 🇧🇩
+  * Bulgaria 🇧🇬
+  * Bahrain 🇧🇭
+  * Burundi 🇧🇮
+  * Bermuda 🇧🇲
+  * Brunei 🇧🇳
+  * Bolivia 🇧🇴
+  * Brazil 🇧🇷
+
 ## [0.0.1-nullsafety.1] - 23-11-2020.
 
 * Added support for country parsing, you can now parse country codes to ISO information. ⚙️
