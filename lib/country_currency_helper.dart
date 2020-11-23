@@ -1,7 +1,6 @@
 library country_currency_helper;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+import 'dart:core';
+
+part './src/currency_helper.dart';
+part './data/constants/country_data.dart';
