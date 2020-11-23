@@ -1,7 +1,7 @@
-class CountryData {
-  // 'A' - 1
-  static const _baseChar = 0x41 - 1;
+part of '../../country_currency_helper.dart';
 
+class CountryData {
+  static const _baseChar = 0x41 - 1;
   // code units buffer for alpha codes
   static final _a2cu = <int>[0, 0];
   static final _a3cu = <int>[0, 0, 0];
