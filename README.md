@@ -1,8 +1,8 @@
 # country_currency_helper
 
 [![](https://img.shields.io/badge/pub-v0.0.1-brightgreen.svg)](https://pub.dev/packages/country_currency_helper)
-
-<!-- [![licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/IamTobi/spotify_sdk/blob/master/LICENSE) -->
+![Test and (dry-run) publish package](https://github.com/qreate/country_currency_helper/workflows/Test%20and%20(dry-run)%20publish%20package/badge.svg)
+[![licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/qreate/country_currency_helper/blob/main/LICENSE.md)
 
 ## Features
 
