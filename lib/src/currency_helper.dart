@@ -41,6 +41,7 @@ class CurrencyHelper {
   /// East Caribbean Dollar XCD 951
   static final eastCaribbeanDollar = CurrencyItem('XCD', 951, 'XCD', [
     CountryData.AI,
+    CountryData.AG,
   ]);
 
   /// Argentine Peso ARS 032
@@ -79,6 +80,78 @@ class CurrencyHelper {
   /// Barbados Dollar DZD 008
   static final barbadosDollar = CurrencyItem('BBD', 052, '\$', [
     CountryData.BB,
+  ]);
+
+  /// Polish złoty PLN 985
+  static final polishZloty = CurrencyItem('PLN', 985, 'zł	', [
+    CountryData.PL,
+  ]);
+
+  /// Chinese yuan CNY 156
+  static final chineseYuan = CurrencyItem('CNY', 156, '¥', [
+    CountryData.CN,
+  ]);
+
+  /// Russian ruble RUB 643
+  static final russianRuble = CurrencyItem('RUB', 643, '₽', [
+    CountryData.RU,
+  ]);
+
+  /// United Arab Emirates dirham AED 784
+  static final unitedArabEmiratesDirham = CurrencyItem('AED', 784, 'د.إ', [
+    CountryData.AE,
+  ]);
+
+  /// Armenian dram AMD 008
+  static final armenianDram = CurrencyItem('AMD', 051, '֏', [
+    CountryData.AM,
+  ]);
+
+  /// Netherlands Antillean guilder ANG 532
+  static final netherlandsAntilleanGuilder = CurrencyItem('ANG', 532, 'ƒ', [
+    CountryData.CW,
+    CountryData.SX,
+  ]);
+
+  /// Bangladeshi taka BDT 050
+  static final bangladeshiTaka = CurrencyItem('BDT', 050, '৳', [
+    CountryData.BD,
+  ]);
+
+  /// Bulgarian lev BGN 532
+  static final bulgarianLev = CurrencyItem('BGN', 975, 'лв.', [
+    CountryData.BG,
+  ]);
+
+  /// Bahraini dinar BHD 048
+  static final bahrainiDinar = CurrencyItem('BHD', 048, '.د.ب	', [
+    CountryData.BH,
+  ]);
+
+  /// Burundian franc BIF 108
+  static final burundianFranc = CurrencyItem('BIF', 108, 'Fr', [
+    CountryData.BI,
+  ]);
+
+  /// Bermudian dollar guilder BMD 060
+  static final bermudianDollar = CurrencyItem('BMD', 060, '\$', [
+    CountryData.BM,
+  ]);
+
+  /// Brunei dollar BND 096
+  static final bruneiDollar = CurrencyItem('BND', 096, '\$', [
+    CountryData.BI,
+    CountryData.SG,
+  ]);
+
+  /// Bolivian boliviano BOB 068
+  static final bolivianBoliviano = CurrencyItem('BOB', 068, 'Bs.', [
+    CountryData.BO,
+  ]);
+
+  /// Brazilian real BRL 986
+  static final brazilianReal = CurrencyItem('BRL', 986, 'R\$', [
+    CountryData.BR,
   ]);
 
   static final usDollar = CurrencyItem('USD', 840, '\$', [
@@ -183,12 +256,16 @@ class CurrencyHelper {
     CountryData.PM: [euro],
     CountryData.SM: [euro],
     CountryData.BL: [euro],
-    CountryData.SX: [euro],
+    CountryData.SX: [
+      euro,
+      netherlandsAntilleanGuilder,
+    ],
     CountryData.SK: [euro],
     CountryData.VA: [euro],
     CountryData.AX: [euro],
     CountryData.AO: [kwanza],
     CountryData.AI: [eastCaribbeanDollar],
+    CountryData.AG: [eastCaribbeanDollar],
     CountryData.AR: [argentinePeso],
     CountryData.AU: [australianDollar],
     CountryData.CX: [australianDollar],
@@ -202,6 +279,22 @@ class CurrencyHelper {
     CountryData.AZ: [azerbaijaniManat],
     CountryData.BA: [bosniaHerzegovinaConvertibleMark],
     CountryData.BB: [barbadosDollar],
+    CountryData.PL: [polishZloty],
+    CountryData.CN: [chineseYuan],
+    CountryData.RU: [russianRuble],
+    CountryData.AE: [unitedArabEmiratesDirham],
+    CountryData.AM: [armenianDram],
+    CountryData.CW: [euro],
+    CountryData.BD: [bangladeshiTaka],
+    CountryData.BG: [bulgarianLev],
+    CountryData.BH: [bahrainiDinar],
+    CountryData.BI: [burundianFranc, bruneiDollar],
+    CountryData.BM: [bermudianDollar],
+    CountryData.SG: [
+      bruneiDollar,
+    ],
+    CountryData.BO: [bolivianBoliviano],
+    CountryData.BR: [brazilianReal],
   };
 }
 

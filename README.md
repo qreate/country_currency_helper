@@ -1,7 +1,9 @@
 # country_currency_helper
 
-[![](https://img.shields.io/badge/pub-v0.0.1-brightgreen.svg)](https://pub.dev/packages/country_currency_helper)
+[![](https://img.shields.io/badge/pub-v0.0.2-brightgreen.svg)](https://pub.dev/packages/country_currency_helper)
+
 ![Test and (dry-run) publish package](https://github.com/qreate/country_currency_helper/workflows/Test%20and%20(dry-run)%20publish%20package/badge.svg)
+
 [![licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/qreate/country_currency_helper/blob/main/LICENSE.md)
 
 ## Features
@@ -81,6 +83,22 @@ Makes it easy to get the countries ISO information by country code and get curre
 * Azerbaijan 🇦🇿
 * Bosnia and Herzegovina 🇧🇦
 * Barbados 🇧🇧
+* Poland 🇵🇱
+* China 🇨🇳
+* Russia 🇷🇺
+* United Arab Emirates 🇦🇪
+* Armenia 🇦🇲
+* Curaçao 🇨🇼
+* Sint Maarten 🇸🇽
+* Barbados 🇧🇧
+* Bangladesh 🇧🇩
+* Bulgaria 🇧🇬
+* Bahrain 🇧🇭
+* Burundi 🇧🇮
+* Bermuda 🇧🇲
+* Brunei 🇧🇳
+* Bolivia 🇧🇴
+* Brazil 🇧🇷
 
 ## Changelog
 
