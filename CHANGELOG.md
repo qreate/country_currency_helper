@@ -1,4 +1,4 @@
-## [0.0.1] - 23-11-2020.
+## [0.0.1-dev.1] - 23-11-2020.
 
 * Added support for country parsing, you can now parse country codes to ISO information. ⚙️
 * Added support for currency per country. Still work in progress 🚧
