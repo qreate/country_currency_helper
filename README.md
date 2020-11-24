@@ -1,6 +1,6 @@
 # country_currency_helper
 
-[![](https://img.shields.io/badge/pub-v0.0.2-brightgreen.svg)](https://pub.dev/packages/country_currency_helper)
+[![](https://img.shields.io/badge/pub-v0.0.3-brightgreen.svg)](https://pub.dev/packages/country_currency_helper)
 
 ![Test and (dry-run) publish package](https://github.com/qreate/country_currency_helper/workflows/Test%20and%20(dry-run)%20publish%20package/badge.svg)
 
@@ -99,6 +99,77 @@ Makes it easy to get the countries ISO information by country code and get curre
 * Brunei 🇧🇳
 * Bolivia 🇧🇴
 * Brazil 🇧🇷
+* The Bahamas 🇵🇱
+* Bhutan 🇧🇹
+* Botswana 🇧🇼
+* Belarusian 🇧🇾
+* Belize 🇧🇿
+* Canada 🇨🇦
+* Benin 🇧🇯
+* Burkina Faso 🇧🇫
+* Côte d'Ivoire 🇨🇮
+* Guinea-Bissau 🇬🇼
+* Mali 🇲🇱
+* Niger 🇳🇪
+* Senegal 🇸🇳
+* Togo 🇹🇬
+* Congo 🇨🇬
+* Switzerland 🇨🇭
+* Liechtenstein 🇱🇮
+* Chile 🇨🇱
+* Colombia 🇨🇴
+* Costa Rica 🇨🇷
+* Cuba 🇨🇺
+* Cape Verde 🇨🇻
+* Czechia 🇨🇿
+* Djiboutian 🇩🇯
+* Denmark 🇩🇰
+* Dominican Republic 🇩🇴
+* Egypt 🇪🇬
+* Eritrea 🇪🇷
+* Ethiopia 🇪🇹
+* Fiji 🇫🇯
+* Falkland Islands 🇫🇰
+* United Kingdom 🇬🇧
+* Isle of Man 🇮🇲
+* Jersey 🇯🇪
+* Guernsey 🇬🇬
+* Georgia 🇬🇪
+* Ghana 🇬🇭
+* Gibraltar 🇬🇮
+* Gambia 🇬🇲
+* Guinea 🇬🇳
+* Guatemala 🇬🇹
+* Guyana 🇬🇾
+* Hong Kong 🇭🇰
+* Honduras 🇭🇳
+* Croatia 🇭🇷
+* Haiti 🇭🇹
+* Hungary 🇭🇺
+* Indonesia 🇮🇩
+* Israel 🇮🇱
+* India 🇮🇳
+* Iraq 🇮🇶
+* Iran 🇮🇷
+* Iceland 🇮🇸
+* Jamaican 🇯🇲
+* Jordan 🇯🇴
+* Japan 🇯🇵
+* Kenya 🇰🇪
+* Kyrgyzstan 🇰🇬
+* Cambodia 🇰🇭
+* Comoros 🇰🇲
+* North Korean 🇰🇵
+* South Korean 🇰🇷
+* Kuwait 🇰🇼
+* Cayman Islands 🇰🇾
+* Kazakhstan 🇰🇿
+* Laos 🇱🇦
+* Lebanon 🇱🇧
+* Sri Lanka 🇱🇰
+* Liberia 🇱🇷
+* Lesotho 🇱🇸
+* Libya 🇱🇾
 
 ## Changelog
 
